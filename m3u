@@ -7,5 +7,5 @@ https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indo
 https://goldenlivektv.com/Kang.Surya/Channel_Rctimetube.m3u8
 #EXTINF:-1 group-title="RCTI ONLY" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png",RCTI VIDIO.COM
 https://iptv.mwafa.net/vidio?id=665
-#EXTINF:-1 group-title="TVIKIM ONLY" tvg-logo="",TVIKIM
+#EXTINF:-1 group-title="TVIKIM ONLY" tvg-logo="http://www.tvikim.my/images/logo-header.png",TVIKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
