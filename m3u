@@ -1,6 +1,6 @@
 #EXTM3U
-EXTINF:-1 group-title="TV1 ONLY" "https://i.ibb.co/XsSHVDC/fh.png",RCTI TV 10
-https://rtmlive07.secureswiftcontent.com/rtmchannel/07-1080.m3u8
+EXTINF:-1 group-title="ARENA ONLY" "https://i.ibb.co/XsSHVDC/fh.png"
+http://194.233.86.5:5080/WebRTCApp/streams/arena.m3u8
 #EXTINF:-1 group-title="RCTI ONLY" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png",RCTI TV 1
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 #EXTINF:-1 group-title="RCTI ONLY" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png",RCTI TV 2
