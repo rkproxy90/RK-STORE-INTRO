@@ -1,5 +1,5 @@
 #EXTM3U
-EXTINF:-1 group-title="ASTRO ARENA ONLY" "https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",ASTRO ARENA
+EXTINF:-1 group-title="RTM1 ONLY" "https://www.rtm.gov.my/images/2021/04/05/rtmklikbaharu.jpg",RTM1 TV1
 https://rtmlive01.secureswiftcontent.com/rtmchannel/01-manifest.m3u8
 #EXTINF:-1 group-title="RCTI ONLY" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png",RCTI TV 1
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
