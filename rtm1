@@ -1,3 +1,9 @@
 #EXTM3U
-EXTINF:TV1
+EXTINF:-rtm
 https://rtmlive07.secureswiftcontent.com/rtmchannel/07-1080.m3u8
+#EXTINF:-1 group-title="RCTI ONLY" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png",RCTI TV 1
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+#EXTINF:-1 group-title="RCTI ONLY" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png",RCTI TV 2
+https://goldenlivektv.com/Kang.Surya/Channel_Rctimetube.m3u8
+#EXTINF:-1 group-title="RCTI ONLY" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png",RCTI VIDIO.COM
+https://iptv.mwafa.net/vidio?id=665
